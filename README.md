@@ -5,7 +5,7 @@ This is a front-end code demo created for the Web Solutions position. It is a si
 
 ## 🧠 Project Concept
 
-The demo presents a "Choose Your Own Adventure" narrative where users make decisions that influence the story's path. This creative concept demonstrates user interaction, front-end logic, and accessible design—all without any frameworks.
+This demo is truly my own creation of a duplicate of the ny.gov website. It includes a user friendly approach. I put myself in my family members shoes less tech savvy and made it as simple to use. I hope you enjoy this project and the creativity behind it. Want to add to it see clone instructions below. Enjoy!
 
 ## 🛠️ Technologies Used
 
@@ -23,11 +23,12 @@ Accessibility was a core part of the design process:
 - Reduced motion preferences respected (if animations are used)
 
 ## 📁 File Structure
--->websolutions-AngeliqueLewis
---->images
----->index.html
----->main.js
----->style.css
+-websolutions-AngeliqueLewis/
+├── images/
+├── index.html
+├── main.js
+└── style.css
+
 
 ## To view this project live 
 click here (https://this-is-not-a-test-angelique-lewis.netlify.app/)
